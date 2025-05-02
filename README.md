@@ -41,7 +41,7 @@ This repository contains an implementation of the automated interview analysis a
 - Jupyter Notebook
 - OpenCV
 - NumPy
-- TensorFlow / Keras or PyTorch
+- Dlib
 - Matplotlib
 
 ---
