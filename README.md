@@ -125,7 +125,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Original authors of the referenced paper
 - OpenCV and machine learning community
-- MIT Interview Dataset (request access [here](https://goo.gl/forms/xF4DEsg9RIsto6nu1))[5]
+- MIT Interview Dataset (request access [here](https://goo.gl/forms/xF4DEsg9RIsto6nu1))
 
 ---
 
