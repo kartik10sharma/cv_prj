@@ -129,4 +129,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-> For more details, see the [Smile_detection-Yawn_detection.ipynb](https://github.com/kartik10sharma/cv_prj/blob/main/Smile_detection-Yawn_detection.ipynb) notebook and the [paper](https://www.cs.rochester.edu/u/gildea/pubs/naim-fg15.pdf)[2].
